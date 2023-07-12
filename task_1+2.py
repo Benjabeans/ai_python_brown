@@ -1,0 +1,1 @@
+print(str(float(input("enter min: "))/60)+"hrs" if input("enter \"m\" for hr-> min, \"h\" for min -> hr: ")=="m" else str(float(input("enter hr: "))*60)+"mins")
