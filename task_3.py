@@ -1,1 +1,1 @@
-print(len(str(input("enter word: "))))
+while(input("Run \"r\", or Terminate \"t\": ")=="r"):print(len(str(input("enter word: "))))
